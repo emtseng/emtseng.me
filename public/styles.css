@@ -43,6 +43,10 @@ body {
     margin: 1em;
 }
 
+.pub-award {
+    color: red;
+}
+
 li {
     margin: 1em;
 }
